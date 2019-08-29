@@ -14,3 +14,5 @@ https://medium.com/@jonaldfyookball/warum-sich-jeder-bitcoin-nutzer-mit-spv-sich
 
 https://cryptozombies.io
 
+## Solidity Pitfalls: Random Number Generation for Ethereum
+https://www.sitepoint.com/solidity-pitfalls-random-number-generation-for-ethereum/
