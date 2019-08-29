@@ -9,3 +9,8 @@ https://coinsavage.com/content/2018/12/bitcoin-data-science-pt-3-dust-thermodyna
 ## SPV & Forks
 
 https://medium.com/@jonaldfyookball/warum-sich-jeder-bitcoin-nutzer-mit-spv-sicherheit-auskennen-sollte-ba3b23bf3e2
+
+## Fun Introduction to Solidity (Language for Ethereum Smart Contracts)
+
+https://cryptozombies.io
+
